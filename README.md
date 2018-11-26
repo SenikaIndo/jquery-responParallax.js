@@ -1,2 +1,2 @@
-# jquery-responParallax.js
+# responParallax.js
 Simple parallax scroll for your website
